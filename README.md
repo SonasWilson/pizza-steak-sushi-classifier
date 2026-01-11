@@ -32,7 +32,7 @@ The dataset for this project was sourced from **David Brooks’ GitHub repositor
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/SonasWilson/pizza-steak-sushi-classifier.git
 cd pizza-steak-sushi-classifier
 ```
 
